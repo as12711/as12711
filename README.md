@@ -1,6 +1,6 @@
 <div align="center">
 
-# AUNRAY
+# aunray
 
 **NYU CS · Former Violence Interrupter · Building SafeStep — "Crowdsourced Data, Pedestrian Safe-Route Planning Tool"**
 

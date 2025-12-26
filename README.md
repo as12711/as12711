@@ -2,7 +2,7 @@
 
 # AUNRAY
 
-**NYU CS · Former Violence Interrupter · Building SafeStep — "Waze for Pedestrians"**
+**NYU CS · Former Violence Interrupter · Building SafeStep — "Crowdsourced Data, Pedestrian Safe-Route Planning Tool"**
 
 <a href="https://www.linkedin.com/in/aunray-stanford/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>

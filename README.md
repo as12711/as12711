@@ -1,6 +1,6 @@
 <div align="center">
 
-# AUNRAY HALL
+# AUNRAY
 
 **NYU CS · Former Violence Interrupter · Building SafeStep — "Waze for Pedestrians"**
 

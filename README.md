@@ -27,4 +27,5 @@
 | **City Patterns** | Urban development visualization across NYC & Chicago |
 | **MUI Fatherhood** | Signup & management system for Man Up! Inc.'s fatherhood program |
 | **MUI Calendar** | Internal scheduling app for violence intervention team coordination |
-| **OneStepToGood.com** | Personal site rebuild — intellectual OS aesthetic |
+| **OneSteptoGood.com** | Personal site rebuild — intellectual OS aesthetic |
+| **NYPD Misconduct RAG** | LLM-powered query system for NYC police misconduct records |

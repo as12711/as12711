@@ -19,6 +19,18 @@
 
 </div>
 
+---
+
+## 📚 My Computer Science Journey
+
+<div align="center">
+
+![CS Timeline](https://raw.githubusercontent.com/as12711/as12711/main/timeline.svg)
+
+</div>
+
+---
+
 ## 🔨 Currently Building
 
 | Project | Description |
@@ -27,5 +39,5 @@
 | **City Patterns** | Urban development visualization across NYC & Chicago |
 | **MUI Fatherhood** | Signup & management system for Man Up! Inc.'s fatherhood program |
 | **MUI Calendar** | Internal scheduling app for violence intervention team coordination |
-| **OneSteptoGood.com** | Personal site rebuild — intellectual OS aesthetic |
+| **OneSteptoGood. com** | Personal site rebuild — intellectual OS aesthetic |
 | **NYPD Misconduct RAG** | LLM-powered query system for NYC police misconduct records |

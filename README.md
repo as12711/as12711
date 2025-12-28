@@ -21,8 +21,6 @@
 
 ---
 
-## 🖥️ My Computer Science Journey
-
 ![CS Timeline](./timeline.svg)
 
 ---

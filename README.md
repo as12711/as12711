@@ -2,7 +2,7 @@
 
 # aunray
 
-**NYU CS · Former NY CMS Violence Interrupter · Building SafeStep — "Pedestrian Safe-Route Planning Tool"**
+**NYU CS · NY CMS · Building SafeStep — "Pedestrian Safe-Route Planning Tool"**
 
 <a href="https://www.linkedin.com/in/aunray-stanford/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -23,11 +23,11 @@
 
 ## 📚 My Computer Science Journey
 
-<div align="center">
-
-![CS Timeline](https://raw.githubusercontent.com/as12711/as12711/main/timeline.svg)
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/as12711/as12711/main/timeline. svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/as12711/as12711/main/timeline.svg">
+  <img alt="CS Timeline" src="https://raw.githubusercontent.com/as12711/as12711/main/timeline.svg" width="100%">
+</picture>
 
 ---
 
@@ -37,7 +37,7 @@
 |---------|-------------|
 | **SafeStep** | Pedestrian safety navigation — crowdsourced data + predictive routing |
 | **City Patterns** | Urban development visualization across NYC & Chicago |
-| **MUI Fatherhood** | Signup & management system for Man Up! Inc.'s fatherhood program |
+| **MUI Fatherhood** | Signup & management system for Man Up!  Inc.'s fatherhood program |
 | **MUI Calendar** | Internal scheduling app for violence intervention team coordination |
 | **OneSteptoGood. com** | Personal site rebuild — intellectual OS aesthetic |
 | **NYPD Misconduct RAG** | LLM-powered query system for NYC police misconduct records |

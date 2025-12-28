@@ -69,7 +69,7 @@
   <rect x="1083" y="193" width="134" height="2" fill="#34d399" opacity="0.6"/>
   <text x="1150" y="215" font-size="12" font-weight="bold" text-anchor="middle" fill="#34d399">Advanced LLM</text>
   <text x="1150" y="230" font-size="12" font-weight="bold" text-anchor="middle" fill="#34d399">&amp; Large Systems</text>
-  <text x="1150" y="250" font-size="9" text-anchor="middle" fill="#e2e8f0" font-weight="600">React • Node. js</text>
+  <text x="1150" y="250" font-size="9" text-anchor="middle" fill="#e2e8f0" font-weight="600">React • Node.js</text>
   <text x="1150" y="265" font-size="9" text-anchor="middle" fill="#e2e8f0" font-weight="600">SQL • APIs • Prompt Eng</text>
   <text x="1150" y="283" font-size="9" text-anchor="middle" fill="#cbd5e1">Full-Stack Foundation</text>
   <text x="1150" y="298" font-size="9" text-anchor="middle" fill="#94a3b8">Systems Architecture</text>

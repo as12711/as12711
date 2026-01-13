@@ -2,7 +2,7 @@
 
 # aunray
 
-**NYU CS · Former NY CMS Violence Interrupter · Building SafeStep — "Pedestrian Safe-Route Planning Tool"**
+**NYU CS · NY CMS Violence Interrupter · Building SafeStep — "Pedestrian Safe-Route Planning Tool"**
 
 <a href="https://www.linkedin.com/in/aunray-stanford/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -19,11 +19,6 @@
 
 </div>
 
----
-
-![CS Timeline](./timeline.svg)
-
----
 
 ## 🔨 Currently Building
 
@@ -35,3 +30,5 @@
 | **MUI Calendar** | Internal scheduling app for violence intervention team coordination |
 | **OneSteptoGood.com** | Personal site rebuild — intellectual OS aesthetic |
 | **NYPD Misconduct RAG** | LLM-powered query system for NYC police misconduct records |
+| **MUI Sisterhood** | Signup & management system for Man Up! Inc.'s sisterhood program |
+| **Stat Track** | Stat collector app for HS athletics, by Ballin' Out Loud |

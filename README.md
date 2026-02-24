@@ -25,9 +25,6 @@
 | Project | Description |
 |---------|-------------|
 | **SafeStep** | Pedestrian safety navigation — crowdsourced data + predictive routing |
-| **MUI Fatherhood** | Signup & management system for Man Up! Inc.'s fatherhood program |
-| **MUI Calendar** | Internal scheduling app for violence intervention team coordination |
-| **OneSteptoGood.com** | Personal site rebuild — intellectual OS aesthetic |
 | **NYPD Misconduct RAG** | LLM-powered query system for NYC police misconduct records |
-| **MUI Sisterhood** | Signup & management system for Man Up! Inc.'s sisterhood program |
 | **Stat Track** | Stat collector app for HS athletics, by Ballin' Out Loud |
+| **Interruption** | Mobile RPG - key Violence Interruption methodologies + gamified training modules |
